@@ -1,4 +1,4 @@
-#hero{background-color: var(--bg-color);
+#hero{background-color:black;
 height: 100vh;
 color: var(--text-color);
 display: flex;
